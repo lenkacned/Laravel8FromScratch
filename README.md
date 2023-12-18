@@ -10,5 +10,5 @@
         zip, unzip, php-zip, 
         MySQL Workbench,
         Laravel (globally installed) 
-Running the server locally with php artisan serve 
+Running the server locally with php artisan serve </br>
 In-app database configuration included
