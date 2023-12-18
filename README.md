@@ -1,4 +1,4 @@
-## Initial environment Setup: <br />
+## Initial environment Setup:
     Requirements: 
         Docker Desktop, 
         WSL2, 
