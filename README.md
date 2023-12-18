@@ -11,4 +11,4 @@
         MySQL Workbench,
         Laravel (globally installed) 
 Running the server locally with php artisan serve </br>
-In-app database configuration included
+Database configured
